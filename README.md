@@ -11,4 +11,4 @@ Customer:
 4.	Customer can search item by keyword.
 
 Technology stack:
-Database, springMVC, Hibernate, AJAX, CSS, Javascript, Bootstrapetc
+Database, springMVC, Hibernate, AJAX, CSS, Javascript, Bootstrap etc
